@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/ros/L2/catkin_ws/devel/setup.sh
