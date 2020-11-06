@@ -4,6 +4,11 @@ add-apt-repository "deb http://realsense-hw-public.s3.amazonaws.com/Debian/apt-r
 apt-get install librealsense2-dkms
 apt-get install librealsense2-utils
 apt-get install librealsense2-dev
+apt-get install ros-kinetic-rqt -y
+apt-get install ros-kinetic-rqt-multiplot -y
+apt-get install libqwt-dev -y
+rm -rf ~/.config/ros.org/rqt_gui.ini
+
 
 source devel/setup.bash
 rosdep -i install turtlebot_gazebo
