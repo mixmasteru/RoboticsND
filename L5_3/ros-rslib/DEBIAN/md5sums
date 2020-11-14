@@ -1,0 +1,16 @@
+56d9597ed7c20b0d8713548ca296f85d  lib/udev/rules.d/60-ros-kinetic-librealsense.rules
+96304017181b23bb5d6b474289dd8e97  opt/ros/kinetic/include/librealsense/rs.h
+666d33c47ca419c3eaef39c0a7632389  opt/ros/kinetic/include/librealsense/rs.hpp
+56ff2a589ac4d274f5153eeeef6dead1  opt/ros/kinetic/include/librealsense/rscore.hpp
+9c43098c0e977de44f918b8c86f72b04  opt/ros/kinetic/include/librealsense/rsutil.h
+627be33bf1b5eb33681693dbdc5c9d05  opt/ros/kinetic/lib/librealsense.so.1.12.1
+983dba053930d6c6093c9a1e3beb8fd2  opt/ros/kinetic/lib/pkgconfig/librealsense.pc
+1cc92aa24687315e321509a8b3afac79  opt/ros/kinetic/share/librealsense/cmake/librealsenseConfig-version.cmake
+b23be8d31cc675d2d76598558a0597ec  opt/ros/kinetic/share/librealsense/cmake/librealsenseConfig.cmake
+81357012ca0b25035b7ad051137ab00c  opt/ros/kinetic/share/librealsense/package.xml
+3cf08b4075d2d1c3d2e3cb5cb7ddf03f  usr/share/doc/ros-kinetic-librealsense/TODO.Debian
+6706d41a73439adc043272aaadd216fe  usr/share/doc/ros-kinetic-librealsense/changelog.Debian.gz
+eaf24f819e9ee2f2ead803a5082cddcc  usr/src/uvcvideo-1.1.1-3-realsense/dkms-pre-build.sh
+3dabc0dc58bce9e7e077342c7039e796  usr/src/uvcvideo-1.1.1-3-realsense/dkms.conf
+538cf50f4ba2ae9a98d9c9f1fcaf0c50  usr/src/uvcvideo-1.1.1-3-realsense/patches/realsense-uvcvideo-add-to-upstreamed.patch
+d281e7ab30000f8cffb268d722c84127  usr/src/uvcvideo-1.1.1-3-realsense/patches/realsense-uvcvideo-no-upstreamed.patch

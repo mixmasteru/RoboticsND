@@ -1,0 +1,8 @@
+prefix=/opt/ros/kinetic
+
+Name: librealsense
+Description: Description of librealsense
+Version: 1.12.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrealsense
+Requires: 
